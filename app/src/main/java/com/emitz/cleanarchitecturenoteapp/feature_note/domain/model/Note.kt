@@ -5,7 +5,7 @@ import androidx.room.PrimaryKey
 import com.emitz.cleanarchitecturenoteapp.ui.theme.*
 
 /*
-* Contains Entity of single Note and Relevant properties of a note  */
+* Contains Entity of single Note and Relevant properties of a note */
 
 @Entity
 data class Note(
